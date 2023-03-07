@@ -6,8 +6,8 @@ from pydub import AudioSegment
 import os
 
 # 填入影片的URL
-url = 'https://youtu.be/z1s4RkOl_NY'
-TOKEN = "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"
+url = 'https://youtu.be/'
+TOKEN = ""
 date = str(datetime.date.today())
 download_path = r"D:\Dropbox\Music" + "\\" + date
 
